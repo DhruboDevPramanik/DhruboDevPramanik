@@ -1,4 +1,7 @@
 # About Me:
+
+<img src='https://scontent.fdac181-1.fna.fbcdn.net/v/t39.30808-6/486484159_1184439203341798_5359626456431042425_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGMnK4AP3oAcu_Na4QyNmh0NMQ6tUg3tUs0xDq1SDe1S3DZXQhxNaxrcoP6eVFd1qRfDr1Mp4QFU-I5im8imDyt&_nc_ohc=VCJwKiPrBJQQ7kNvwH5FS7N&_nc_oc=Adm4efRnUywn1FqLjQXq7T6m5-ohgPbJONLmMPcd9XM6dlmYlO9TM1Hut0IXZBZJDL8&_nc_zt=23&_nc_ht=scontent.fdac181-1.fna&_nc_gid=s-eVopj8lvgYGxFMwXYOVg&oh=00_AfYulOQJjqNH28VtLznSjKiKyAbNckDMYA2HH09NzhbGtg&oe=68BFDD84' alt='Ali Hossain'>
+
 ## Dhrubo Dev Pramanik
 - **Computer Science Student** at RUET, Rajshahi, Bangladesh
 - Currently working on **Machine Learning (ML)** and **Deep Learning (DL)**
