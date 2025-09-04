@@ -46,22 +46,5 @@
 [![](https://visitcount.itsvg.in/api?id=DhruboDevPramanik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ##  Socials:
-
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/dhrubodev.pramanik.1) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/drubo_dev_pramanik) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/DhruboDevPk) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@DhruboDevPramanik) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/drubo-dev-pramanik)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div style="text-align: center;">
-    <a href="https://www.facebook.com/dhrubodev.pramanik.1" target="_blank">
-        <img src="https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true" alt="facebook" height="40">
-    </a>
-    <a href="https://www.instagram.com/drubo_dev_pramanik" target="_blank">
-        <img src="https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true" alt="instagram" height="40">
-    </a>
-    <a href="https://x.com/DhruboDevPk" target="_blank">
-        <img src="https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true" alt="twitter" height="40">
-    </a>
-    <a href="https://www.youtube.com/@DhruboDevPramanik" target="_blank">
-        <img src="https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true" alt="YouTube" height="40">
-    </a>
-    <a href="https://www.linkedin.com/in/drubo-dev-pramanik" target="_blank">
-        <img src="https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true" alt="linkedin" height="40">
-    </a>
-</div>
