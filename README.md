@@ -1,5 +1,5 @@
 # About Me:
-## Drubo Dev Pramanik
+## Dhrubo Dev Pramanik
 - **Computer Science Student** at RUET, Rajshahi, Bangladesh
 - Currently working on **Machine Learning (ML)** and **Deep Learning (DL)**
 - **LLM Researcher**
